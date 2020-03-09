@@ -1,0 +1,6 @@
+classes= 3
+train  = /home/daiz/HUMdevkit/HUMANOID/HUMANOID_trainval.txt
+valid  = /home/daiz/HUMdevkit/HUMANOID/HUMANOID_test.txt
+names = data/hum.names
+backup = backup
+
